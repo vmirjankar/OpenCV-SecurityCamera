@@ -18,6 +18,6 @@ BRIEF PROCESS DESCRIPTION:<br/>
 
 IMAGES: <br>
 1. Video recordings saved in a folder with the current date and time <br>
-![2](https://github.com/vmirjankar/OpenCV_Security_Camera/assets/111427005/63ffdea0-2ee7-4d39-8016-c4cba5410e28)<br>
+![image](https://github.com/vmirjankar/OpenCV_Security_Camera/assets/111427005/089bcf1a-8ca6-46c1-a8d3-addefa5f3cbb)<br>
 2. Terminal showing the start and stop of the video recordings <br>
 ![1](https://github.com/vmirjankar/OpenCV_Security_Camera/assets/111427005/a4c2bf06-5a11-4ee7-ab6e-462d053b51bc)
